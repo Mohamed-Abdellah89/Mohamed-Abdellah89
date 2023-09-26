@@ -12,6 +12,17 @@ I am always developing myself by learning more skills
 I always achieve what is required of me, I am very ambitious to the extreme, and I am always full of hope and never despair
 My goal is to become a professional full-stack developer 
 
+<ul>
+  <li>React JS</li>
+ 
+</ul>
+
+
+
+
+
+
+
 <!--
 Skills:
 * React JS 
