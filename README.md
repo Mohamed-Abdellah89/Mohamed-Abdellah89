@@ -10,7 +10,7 @@
 I learn quickly and do not stop at any problem. I believe that every issue has a solution
 I am always developing myself by learning more skills
 I always achieve what is required of me, I am very ambitious to the extreme, and I am always full of hope and never despair
-My goal is to become a professional full-stack developer
+My goal is to become a professional full-stack developer 
 
 <!--
 Skills:
