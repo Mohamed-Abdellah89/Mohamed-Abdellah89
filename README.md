@@ -13,7 +13,7 @@ My goal is to become a professional full-stack developer
 
 
 Skills:
-* React JS background="red"
+* React JS 
 * HTML
 * Bootstrap
 * MYSQL
