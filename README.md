@@ -15,7 +15,7 @@ My goal is to become a professional full-stack developer
 
  <h2>Skills:</h2>
       <ul>
-          <li>React JS</li>
+          <li style="background:red;">React JS</li>
           <li>HTML</li>
           <li>Bootstrap</li>
           <li>MYSQL</li>
@@ -29,9 +29,7 @@ My goal is to become a professional full-stack developer
           <li>Sales</li>
  
       
-          <br/>
-          <br/>
-          <br/>
+          
 
 
 
