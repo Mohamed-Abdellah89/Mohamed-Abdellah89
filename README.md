@@ -13,30 +13,7 @@ I always achieve what is required of me, I am very ambitious to the extreme, and
 My goal is to become a professional full-stack developer 
 
 
- <h2>Skills:</h2>
-      <ul>
-          <li color="red">React JS</li>
-          <li>HTML</li>
-          <li>Bootstrap</li>
-          <li>MYSQL</li>
-          <li>JavaScript</li>
-          <li>CSS</li>
-          <li>Tailwind</li>
-          <li>PHP</li>
-          <li>CRM</li>
-          <li>Customer Service</li>
-          <li>Sales data analyst</li>
-          <li>Sales</li>
- 
-      
-          
 
-
-
-
-
-
-<!--
 Skills:
 * React JS 
 * HTML
@@ -50,7 +27,7 @@ Skills:
 * Customer Service
 * Sales data analyst
 * Sales
--->
+  
 
 - 🔭 I’m currently working on Front End Developer Freelancer 
 - 🌱 I’m currently learning Back End Developer
