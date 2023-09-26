@@ -28,7 +28,7 @@ My goal is to become a professional full-stack developer
           <li>Sales data analyst</li>
           <li>Sales</li>
  
-      </ul>
+      
 
 
 
