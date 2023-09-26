@@ -24,7 +24,9 @@ Skills:
 * Sales data analyst
 * Sales
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Front End Developer Freelancer 
+- 🌱 I’m currently learning Back End Developer
+
 
 
 
