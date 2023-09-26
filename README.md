@@ -1,9 +1,9 @@
 
 ### Hi there 👋, my name is Mohamed
 #### Front End Developer
-![Front End Developer](https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/382230564_2086835938361854_6785661100541732552_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=MZfr7piwsCAAX9cUPOH&_nc_ht=scontent.fcai19-8.fna&oh=00_AfAjDhB-3TShSEp6wOrd367OBSiCGG6Va745ijESq8IAvQ&oe=6518217E)
 
-<img src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/382230564_2086835938361854_6785661100541732552_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=MZfr7piwsCAAX9cUPOH&_nc_ht=scontent.fcai19-8.fna&oh=00_AfAjDhB-3TShSEp6wOrd367OBSiCGG6Va745ijESq8IAvQ&oe=6518217E" alt="my_image"/>
+
+<img src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/382230564_2086835938361854_6785661100541732552_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=MZfr7piwsCAAX9cUPOH&_nc_ht=scontent.fcai19-8.fna&oh=00_AfAjDhB-3TShSEp6wOrd367OBSiCGG6Va745ijESq8IAvQ&oe=6518217E" alt="my_image"/ width="300px">
 
 <img src="https://media1.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif?cid=ecf05e472zy5tdoxnsfh6lpb2sfo08us2olq7qogspb7n3wl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="image_gif" width= "300px" />
 
