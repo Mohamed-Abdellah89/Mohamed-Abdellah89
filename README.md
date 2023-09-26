@@ -12,7 +12,7 @@ I am always developing myself by learning more skills
 I always achieve what is required of me, I am very ambitious to the extreme, and I am always full of hope and never despair
 My goal is to become a professional full-stack developer
 
-
+<!--
 Skills:
 * React JS 
 * HTML
@@ -26,6 +26,7 @@ Skills:
 * Customer Service
 * Sales data analyst
 * Sales
+-->
 
 - 🔭 I’m currently working on Front End Developer Freelancer 
 - 🌱 I’m currently learning Back End Developer
