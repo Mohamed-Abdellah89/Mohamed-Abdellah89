@@ -10,7 +10,19 @@ I always achieve what is required of me, I am very ambitious to the extreme, and
 My goal is to become a professional full-stack developer
 
 
-Skills: React JS / HTML / Bootstrap / MYSQL / JavaScript  / CSS  / Tailwind  /PHP /  CRM / Customer Service / Sales data analyst  / Sales
+Skills:
+* React JS 
+* HTML
+* Bootstrap
+* MYSQL
+* JavaScript
+* CSS
+* Tailwind
+* PHP
+* CRM
+* Customer Service
+* Sales data analyst
+* Sales
 
 - 🔭 I’m currently working on this page. 
 
