@@ -13,7 +13,7 @@ I always achieve what is required of me, I am very ambitious to the extreme, and
 My goal is to become a professional full-stack developer 
 
 
-<h2>Skills:</h2>
+ <h2>Skills:</h2>
       <ul>
           <li>React JS</li>
           <li>HTML</li>
